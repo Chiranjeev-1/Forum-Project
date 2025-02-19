@@ -1,0 +1,27 @@
+## **Features & Attributes:**
+
+1. User Signup and Login (site based and Auth 2.0)
+2. Forum Post 
+3. Tags
+4. Favorite Animes
+5. Like or dislike a post 
+6. Comment and reply to comments
+7. For You (Personalized based on tags)
+8. In profile section ( username, Bio, banner,display picture)
+9. Search for previous posts by title(text) or post id.
+10. Filter by date or tag.
+11. Account Activity (Optional)
+12. Other User Profile Visit (Optional)
+
+
+
+## **Technology and Frameworks:**
+
+**Frontend** :- Html, Tailwind, React.js
+
+**Backend** :- Express
+
+**Database and cloud storage** :- PostgreSQL(Supabase)
+
+**Deployment** :- Render and Vercel
+
